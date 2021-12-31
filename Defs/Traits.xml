@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>GodlikeShooter</defName>
+    <commonality>0.001</commonality>
+    <degreeDatas>
+      <li>
+        <label>godlike shooter</label>
+        <description>[PAWN_nameDef] is a godlike shooter. [PAWN_pronoun] shoots faster than others, and more accurately.</description>
+        <statOffsets>
+          <AimingDelayFactor>-0.99</AimingDelayFactor>
+          <ShootingAccuracyPawn>150</ShootingAccuracyPawn>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  
+</Defs>
